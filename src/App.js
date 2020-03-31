@@ -7,11 +7,11 @@ function App() {
       <Contact 
       name = 'Bonnie Day'
       avatar = "https://randomuser.me/api/portraits/women/21.jpg"
-      online = 'false'/>
+      online = 'true'/>
       <Contact 
       name = 'Joan Burton'
       avatar = "https://randomuser.me/api/portraits/women/20.jpg"
-      Online = 'false'/>
+      online = 'false'/>
       <Contact 
       name = 'Lori Banks'
       avatar = "https://randomuser.me/api/portraits/women/3.jpg"
